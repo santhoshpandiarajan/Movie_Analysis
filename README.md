@@ -25,9 +25,3 @@ The average voter rating for each genre is calculated and compared with a bar ch
 Scatterplots with regression lines analyze relationships between variables like budget/revenue, runtime/revenue, and vote count/vote average Changes Over Time
 
 Bar and line charts display trend changes over time for metrics like yearly releases In general, the analysis provides insights into movie performance, release trends, ratings, key variables relationships, and market share breakdowns using visualizations.
-
-#SubashPalvel #subashpalvel #subash #palvel #SUBASHPALVEL
-
-
-
-#SubashPalvel #subashpalvel #subash #palvel #SUBASHPALVEL
